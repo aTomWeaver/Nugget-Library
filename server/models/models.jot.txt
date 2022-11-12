@@ -1,0 +1,23 @@
+Sat Nov 12 2022 15:25:10
+	schema: 
+
+	amount-paid, 
+	amount-retail,
+	amount-saved, 
+	audiobook, 
+	author, 
+	completion-date, 
+	cover-type, 
+	genre,
+	number-in-series, 
+	pages, 
+	purchase-date, 
+	purchase-location, 
+	rating, 
+	series, 
+	shelf, 
+	sub-shelf, 
+	title
+
+
+
